@@ -1,4 +1,4 @@
-#QUBIC AGI Matrix: Hard Facts & Statistical Analysis
+# QUBIC AGI Matrix: Hard Facts & Statistical Analysis
 
 ## Core Statistical Properties
 
