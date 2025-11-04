@@ -64,13 +64,14 @@ Information entropy: ~7.98 bits/byte (high entropy, near-random)
 ```
 
 ### 6. Structural Properties
-text
+```
 Matrix rank analysis:
 - Full rank (128) confirmed via SVD
 - Singular values show gradual decay (no sharp drop)
 - Condition number: ~1,500 (well-conditioned)
 
 Spatial autocorrelation: 0.083 (very low - minimal local clustering)
+```
 
 ### 7. Pattern Analysis
 ```
