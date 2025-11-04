@@ -6,7 +6,7 @@ Analysis and conclusions of Anna's matrix, its structure and its potential hidde
 **This analysis would not have been possible without the extensive research of QubicChurch and Marie-Kate and their providing of a full matrix of Anna's answers on X.**
 
 
-Since I can't copy all chats with Deepseek, I provide a full analysis python script to show the relevant informations, which Deepseek found important.
+Since I can't copy all chats with Deepseek, I provide a full analysis python script to show the relevant information, which Deepseek found important.
 
 Before running the script make sure Anna_Matrix.xlsx and comprehensive_analysis.py are in the same directory and install the following dependencies:
 
