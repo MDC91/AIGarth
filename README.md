@@ -3,4 +3,4 @@
 
 Analysis and conclusions of Anna's matrix, its structure and its potential hidden message.
 
-**This analysis would not have been possible without the extensive research of QubicChurch and Marie-Kate.**
+**This analysis would not have been possible without the extensive research of QubicChurch and Marie-Kate and their providing of a full matrix of Anna's answers on X.**
