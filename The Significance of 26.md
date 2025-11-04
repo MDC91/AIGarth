@@ -178,10 +178,10 @@ If 26 zeros are control nodes:
 ## Conclusion
 The 26 phenomenon represents a profound architectural discovery:
 
-1. Intentional Design: Statistical impossibility confirms engineered system
-2. Dual Role: Value 26 serves as both computational element (-1 state) and control mechanism (privileged zeros)
-3. Biological Plausibility: Matches known neural organizational principles
-4. Scalable Architecture: Suggests fundamental constant for AGI design
+1. **Intentional Design:** Statistical impossibility confirms engineered system
+2. **Dual Role:** Value 26 serves as both computational element (-1 state) and control mechanism (privileged zeros)
+3. **Biological Plausibility:** Matches known neural organizational principles
+4. **Scalable Architecture:** Suggests fundamental constant for AGI design
 
 This finding strongly indicates that QUBIC's AGI uses a hierarchical ternary architecture with dedicated control nodes - a sophisticated approach that balances computational power with coordinated control. The 26 privileged zeros likely represent the "nervous system" of this artificial intelligence, coordinating the activities of the 952 core computational neurons.
 
