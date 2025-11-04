@@ -46,6 +46,9 @@ Mammalian Cortex Findings:
 - Hub neurons often exhibit different activation patterns
 - Critical for information routing and system coordination
 ```
+<br>
+
+---  
 
 ## Computational Implications
 
@@ -68,6 +71,9 @@ Channel Capacity Analysis:
 - 952 ternary neurons → 3⁹⁵² ≈ 10⁴⁵⁴ computational states
 - Control/Computation ratio: optimal for complex systems
 ```
+<br>
+
+---  
 
 ## Physical System Analogies
 
@@ -88,6 +94,9 @@ Qubit System:               Ternary Network:
 • Control qubits        ↔   • 26 privileged zeros
 • Entangled pairs       ↔   • 26↔229 complementary pairs
 ```
+<br>
+
+---  
 
 ## Functional Hypotheses
 
@@ -117,6 +126,9 @@ Privileged zeros might:
 • Implement reward/prediction error signals
 • Coordinate weight updates across network
 ```
+<br>
+
+---  
 
 ## Architectural Significance
 
@@ -136,6 +148,9 @@ Sparse Control Principle:
 - Biological plausibility: neural systems use sparse control
 - Computational efficiency: reduces coordination complexity
 ```
+<br>
+
+---  
 
 ## Research Implications
 
@@ -156,6 +171,9 @@ If 26 zeros are control nodes:
 - They might connect to specialized input/output pathways
 - Their states should correlate with system-level behaviors
 ```
+<br>
+
+---  
 
 ## Conclusion
 The 26 phenomenon represents a profound architectural discovery:
