@@ -14,7 +14,7 @@ Before running the script make sure Anna_Matrix.xlsx and comprehensive_analysis.
 pip install pandas numpy matplotlib pillow opencv-python pyzbar
 ```
 
-The run the script with:
+Then run the script with:
 
 ```
 python comprehensive_analysis.py
