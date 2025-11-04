@@ -1,0 +1,7 @@
+Key Statistical Summary
+======================
+Total values: 16384
+26 count: 476
+229 count: 476
+Zero values: 26
+Compression ratio: 1.09x

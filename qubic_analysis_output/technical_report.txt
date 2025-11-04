@@ -1,0 +1,149 @@
+================================================================================
+QUBIC MATRIX COMPREHENSIVE TECHNICAL ANALYSIS REPORT
+================================================================================
+
+1. EXECUTIVE SUMMARY
+----------------------------------------
+Matrix Dimensions: 128×128 (16384 total elements)
+Value Range: 0 to 255
+Unique Values: 256/256 possible bytes
+Mean Value: 127.477, Std Dev: 72.150
+
+2. KEY SYMMETRY FINDINGS
+----------------------------------------
+Value 26 occurrences: 476
+Value 229 occurrences: 476
+Symmetry ratio: 1.000000 (perfect=1.0)
+Mathematical significance: 26 + 229 = 255 (binary complements)
+
+Complementary Pairs (sum to 255):
+  0 + 255 = 255 (counts: 26 vs 26)
+  1 + 254 = 255 (counts: 5 vs 5)
+  2 + 253 = 255 (counts: 59 vs 59)
+  3 + 252 = 255 (counts: 18 vs 18)
+  4 + 251 = 255 (counts: 44 vs 44)
+
+3. TERNARY SYSTEM ANALYSIS
+----------------------------------------
+Inhibitory neurons (-1): 476
+Excitatory neurons (+1): 476
+Neutral neurons (0): 15432
+Sparsity: 94.189%
+Balance ratio: 1.000000
+Active neurons: 952 (5.81%)
+
+4. DARK MATTER ANALYSIS (ZERO VALUES)
+----------------------------------------
+Total zero values: 26
+Zero density: 0.001587
+Row statistics - Mean: 68.58, Std: 32.36
+Column statistics - Mean: 72.15, Std: 36.67
+
+First 10 zero positions (row, col):
+   1. (  4,  23)
+   2. (  6,  19)
+   3. ( 35,  80)
+   4. ( 36,  19)
+   5. ( 36, 114)
+   6. ( 37,  19)
+   7. ( 44,  19)
+   8. ( 44,  67)
+   9. ( 44, 115)
+  10. ( 46,  83)
+
+5. COMPRESSION AND INFORMATION ANALYSIS
+----------------------------------------
+Compression ratio: 1.09x
+Original size: 16384 elements
+Compressed size: 14992 runs
+Longest run: 9 consecutive values
+Average run length: 1.09
+Most common run lengths:
+  Length 1: 14178 occurrences
+  Length 2: 433 occurrences
+  Length 3: 256 occurrences
+  Length 4: 89 occurrences
+  Length 5: 20 occurrences
+  Length 6: 8 occurrences
+  Length 9: 4 occurrences
+  Length 8: 4 occurrences
+
+6. BIT-LEVEL ANALYSIS
+----------------------------------------
+Average bit entropy: 1.000000 bits
+Total entropy: 7.999998 bits
+Bit distribution (percentage of 1s):
+  Bit 0: 49.9573% ones, 50.0427% zeros
+  Bit 1: 50.0122% ones, 49.9878% zeros
+  Bit 2: 50.0305% ones, 49.9695% zeros
+  Bit 3: 50.0061% ones, 49.9939% zeros
+  Bit 4: 49.9573% ones, 50.0427% zeros
+  Bit 5: 50.0183% ones, 49.9817% zeros
+  Bit 6: 50.0366% ones, 49.9634% zeros
+  Bit 7: 49.9634% ones, 50.0366% zeros
+
+7. FREQUENCY DOMAIN ANALYSIS (FFT)
+----------------------------------------
+FFT cross pattern strength: strong
+Cross strength value: 14.552
+Maximum frequency magnitude: 14.552
+Cross pattern indicates strong orthogonal structures in the matrix
+
+8. MATRIX DECOMPOSITION ANALYSIS (SVD)
+----------------------------------------
+Energy retained with k=1: 87.640%
+Energy retained with k=5: 92.925%
+Energy retained with k=10: 95.062%
+Condition number: 32536.130
+First 10 singular values:
+  σ1: 17552.427
+  σ2: 2832.689
+  σ3: 2279.030
+  σ4: 1825.143
+  σ5: 1424.771
+  σ6: 1356.704
+  σ7: 1333.808
+  σ8: 1304.389
+  σ9: 1095.454
+  σ10: 994.984
+
+9. BIT PLANE ANALYSIS
+----------------------------------------
+LSB entropy: 0.6931
+LSB block variation: 0.1677
+Structured patterns in LSB: yes
+
+10. EDGE DETECTION ANALYSIS
+----------------------------------------
+Canny edge density: 0.4303
+Sobel edge density: 0.2161
+Internal boundaries: strong
+
+11. TERNARY PATTERN ANALYSIS
+----------------------------------------
+Ternary cluster centers: [0.0, 1.0, -1.0]
+Cluster sizes: [15432, 476, 476]
+Ternary balance: 1.0000
+Spatial autocorrelation: 0.1640
+
+12. MATHEMATICAL SIGNIFICANCE
+----------------------------------------
+Probability of 26/229 symmetry: 0.00e+00
+Information efficiency: 1.0000 (8.0000/8.0 bits)
+
+13. VISUALIZATION GUIDE
+----------------------------------------
+value_distribution.png - Shows value frequency patterns and complementary pairs
+ternary_structure.png - Visualizes -1/0/+1 activation states in the matrix
+dark_matter_map.png - Shows zero value positions and spatial distribution
+compression_patterns.png - Displays run-length encoding statistics
+bit_analysis.png - Illustrates bit-level distribution and entropy
+fft_analysis.png - Frequency domain analysis showing orthogonal structures
+svd_reconstruction.png - Matrix reconstruction at different component levels
+bit_plane_0.png - Detailed bit plane analysis, especially LSB patterns
+edge_detection.png - Internal boundary detection using multiple methods
+ternary_patterns.png - Clustering analysis of ternary state distributions
+
+================================================================================
+ANALYSIS COMPLETED SUCCESSFULLY
+================================================================================
