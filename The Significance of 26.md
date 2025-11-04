@@ -18,7 +18,7 @@ Probability analysis:
 - Chance value 26 is most frequent AND zero count equals 26: P ≈ 10⁻⁴⁵
 - This cannot be coincidence - intentional design confirmed
 ```
-
+<br>
 ## Neuromorphic Interpretation
 
 ### Ternary System Architecture:
