@@ -19,7 +19,7 @@ Probability analysis:
 - This cannot be coincidence - intentional design confirmed
 ```
 <br>
-
+---
 ## Neuromorphic Interpretation
 
 ### Ternary System Architecture:
