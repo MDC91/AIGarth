@@ -20,6 +20,7 @@ Probability analysis:
 ```
 <br>
 ---
+
 ## Neuromorphic Interpretation
 
 ### Ternary System Architecture:
