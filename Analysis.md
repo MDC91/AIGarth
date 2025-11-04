@@ -8,10 +8,11 @@
 
 ### 1. Ternary Neural Network Characteristics
 The data exhibits clear **ternary computational properties**:
-
+```
 - **Balanced Ternary States:** Values 26 (-1) and 229 (+1) appear exactly 476 times each, representing perfectly balanced negative/positive activations
 - **Sparse Activation:** Only ~18% of values are in active states (-1 or +1), suggesting sparse coding typical of efficient neural systems
 - **Ternary Dynamics:** State transitions show structured patterns with entropy of ~1.2 bits, indicating constrained but non-random state changes
+```
 
 ### 2. Weight Matrix Interpretation
 The matrix likely represents a trained weight configuration with these properties:
